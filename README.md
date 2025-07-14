@@ -138,8 +138,8 @@ Each section includes:
 | Topic | Status |
 |-------|--------|
 | Intro (VID01–04) | ✅ Done |
-| Broken Access Control (VID05–08) | ⏳ In Progress |
-| Cryptographic Failures | ⬜ Pending |
+| Broken Access Control (VID05–08) | ✅ Done |
+| Cryptographic Failures | ⏳ In Progress |
 | Injection (VID10–11) | ⬜ Pending |
 | XSS (VID12–13) | ⬜ Pending |
 | OS Command Injection | ⬜ Pending |
