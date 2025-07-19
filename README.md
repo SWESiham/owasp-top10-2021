@@ -4,8 +4,7 @@ This repository contains all my notes, summaries, and hands-on experiments from 
 Each section includes:  
 ✅ Course video reference  
 ✅ Theoretical explanation  
-✅ Hands-on labs (TryHackMe, PortSwigger, DVWA)  
-✅ Personal insights & real-world examples
+✅ Hands-on labs ( PortSwigger)  
 
 ---
 
@@ -117,10 +116,7 @@ Each section includes:
 
 | Tool | Purpose |
 |------|---------|
-| [TryHackMe](https://tryhackme.com/) | Beginner-friendly hands-on labs |
 | [PortSwigger Academy](https://portswigger.net/web-security) | Real-world exploit labs for each OWASP vulnerability |
-| [DVWA](http://www.dvwa.co.uk/) | Local vulnerable web app for manual testing |
-| [bWAPP](http://www.itsecgames.com/) | Over 100+ bugs for learning and practice |
 
 ---
 
@@ -128,8 +124,6 @@ Each section includes:
 
 - Burp Suite Community Edition
 - Kali Linux / Parrot OS (Optional)
-- Firefox Developer Tools
-- Postman
 
 ---
 
@@ -139,11 +133,11 @@ Each section includes:
 |-------|--------|
 | Intro (VID01–04) | ✅ Done |
 | Broken Access Control (VID05–08) | ✅ Done |
-| Cryptographic Failures | ⏳ In Progress |
-| Injection (VID10–11) | ⬜ Pending |
-| XSS (VID12–13) | ⬜ Pending |
-| OS Command Injection | ⬜ Pending |
-| Insecure Design | ⬜ Pending |
+| Cryptographic Failures | ✅ Done |
+| Injection (VID10–11) | ✅ Done |
+| XSS (VID12–13) | ✅ Done |
+| OS Command Injection | ✅ Done |
+| Insecure Design | ⏳ In Progress |
 | Security Misconfiguration | ⬜ Pending |
 | Vulnerable Components | ⬜ Pending |
 | Auth Failures | ⬜ Pending |
