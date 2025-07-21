@@ -137,7 +137,7 @@ Each section includes:
 | Injection (VID10–11) | ✅ Done |
 | XSS (VID12–13) | ✅ Done |
 | OS Command Injection | ✅ Done |
-| Insecure Design | ⏳ In Progress |
+| Insecure Design | ✅ Done |
 | Security Misconfiguration | ✅ Done |
 | Vulnerable Components | ✅ Done |
 | Auth Failures | ✅ Done |
