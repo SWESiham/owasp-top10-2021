@@ -138,12 +138,12 @@ Each section includes:
 | XSS (VID12–13) | ✅ Done |
 | OS Command Injection | ✅ Done |
 | Insecure Design | ⏳ In Progress |
-| Security Misconfiguration | ⬜ Pending |
-| Vulnerable Components | ⬜ Pending |
-| Auth Failures | ⬜ Pending |
-| Integrity Failures | ⬜ Pending |
-| Logging/Monitoring | ⬜ Pending |
-| SSRF | ⬜ Pending |
+| Security Misconfiguration | ✅ Done |
+| Vulnerable Components | ✅ Done |
+| Auth Failures | ✅ Done |
+| Integrity Failures | ✅ Done |
+| Logging/Monitoring | ✅ Done |
+| SSRF | ✅ Done |
 
 ---
 
